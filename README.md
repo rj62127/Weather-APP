@@ -31,7 +31,7 @@ npm install axios
 NEXT_PUBLIC_OPENWEATHERMAP_API_KEY=YOUR_KEY
 
 
-Replace `YOUR_API_KEY` with your actual OpenWeatherMap API key.
+Replace `YOUR_KEY` with your actual OpenWeatherMap API key.
 
 3. Start the development server:
 
